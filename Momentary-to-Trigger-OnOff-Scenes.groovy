@@ -2,7 +2,7 @@ definition(
 name: "Momentary To Trigger On/Off Scenes",
 namespace: "sticks18/echo",
 author: "sgibson18@gmail.com",
-parent: "sticks18/parent:Stateless Scene via Echo"
+parent: "sticks18/parent:Stateless Scene via Echo",
 description: "Use a stateless momentary to allow voice commands to avoid sync issues",
 category: "My Apps",
 iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
